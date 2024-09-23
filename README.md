@@ -17,7 +17,7 @@
 
 <br>
 
-- Potencialmente un desarrollador full-stack
+- Potencialmente un desarrollador Back-End
 - Actualmente estoy estudiando ingeniería en sistemas 
 - Me encanta estudiar Fisica y la Investigación astrofísica
 - Tengo 19 años
